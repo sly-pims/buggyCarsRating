@@ -10,6 +10,7 @@ For user simplicity the test is self contained and should not require any instal
 Simply download the zip file from here: https://drive.google.com/file/d/1lthqipSyZ9aOAdkEwiCqwq42qMxNK1G2/view?usp=sharing
 
 **Note:** the zip file could not be uploaded to Github due to the size limitation on free accounts.
+
 **Note 2:** Goole Drive will produce a warning, due to the size of the file it cannot scan it for viruses.
 
 Unzip the folder then double click the Cypress.exe. The first launch takes a bit of time.
