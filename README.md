@@ -20,8 +20,11 @@ When the specs files are visible, simply click the Run 4 integration specs.
 During the process you may see a Windows Firewall window appearr, select desired setting and close.
 
 **Note:** all tests should be passing, however the tests were designed with a CI framework in mind. Due to this the tests can only be run once. To run them more than once, you will need to modify "Moose12" in the following files:
+
 1- BuggyCarsAutomation/cypress/integration/home_form.specs.js
+
 2- BuggyCarsAutomation/cypress/integration/model_form.specs.js
+
 3- BuggyCarsAutomation/cypress/integration/profile_form.specs.js
 
 A search and replace will do the trick.
